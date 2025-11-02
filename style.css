@@ -36,7 +36,6 @@ body {
   padding: 0 20px;
 }
 
-/* Full width images */
 .full-width-img {
   width: 100%;
   display: flex;
@@ -467,7 +466,6 @@ body {
   );
 }
 
-/* FAQ Section */
 .faq-section {
   display: flex;
   flex-wrap: wrap;
@@ -1262,4 +1260,5 @@ body {
     .footer-column a::before {
         display: none;
     }
+
 }
